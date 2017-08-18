@@ -1,0 +1,24 @@
+{
+  "name": "on-your-face-rest",
+  "version": "1.0.0",
+  "description": "wit based",
+  "main": "server.js",
+  "scripts": {
+    "dev": "babel-node ./src/server.js"
+  },
+  "keywords": [
+    "loki",
+    "wit"
+  ],
+  "author": "dhruv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "nodemon": "^1.11.0"
+  }
+}

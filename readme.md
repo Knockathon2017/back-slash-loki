@@ -1,0 +1,3 @@
+ - run `npm install`
+ - then run `npm run dev`, make sure you have babel-node
+ - then hit `localhost:8000`
